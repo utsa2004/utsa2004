@@ -56,8 +56,9 @@ Aquí algunos proyectos representativos de mi portafolio:
 ---
 
 ## 🔗 Conecta conmigo
-- 💼 **LinkedIn:** *(agrega aquí tu link de LinkedIn)*  
-- 📧 **Email:** *(opcional)*  
+- 💼 **LinkedIn:** *www.linkedin.com/in/oscar-manuel-aranda-roche*
+GitHub: https://github.com/utsa2004/proyectos-bootcamp-data-analyst
+- 📧 **Email:** *oscar.aranda.mx@gmail.com*  
 
 ---
 
