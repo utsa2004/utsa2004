@@ -43,12 +43,13 @@ https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/
 ---
 
 ### 🚕 Análisis de Movilidad Urbana – Zuber (Chicago)
-Proyecto de análisis de datos enfocado en patrones de movilidad urbana y toma de decisiones de negocio.
+Proyecto de análisis de datos enfocado en movilidad urbana, combinando consultas SQL y análisis en Python para apoyar la toma de decisiones de negocio.
 
-- Análisis de viajes en taxi por zonas y horarios
-- Integración de datos climáticos
-- Estadística descriptiva y visualizaciones
-- Insights orientados a demanda y eficiencia operativa
+- Extracción y análisis de datos mediante SQL
+- Análisis de viajes en taxi por zonas, horarios y empresas
+- Integración de datos climáticos en el análisis
+- Estadística descriptiva y visualizaciones en Python
+- Generación de insights orientados a demanda y eficiencia operativa
 
 📁 **Repositorio:**  
 https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20Sprint%2008%20-%20Zuber
