@@ -1,65 +1,74 @@
 # 👋 Hola, soy Oscar Aranda
 
-🎯 **Data Analyst Jr. | Python | SQL | Visualización de Datos**  
+🎯 **Data Analyst Jr. | Python | SQL | Análisis de Datos y Visualización**  
 📍 México | Abierto a oportunidades remotas
 
 ---
 
-## 🚀 Sobre mí
-Soy **analista de datos en etapa inicial (entry-level)** con formación práctica en análisis de datos a través del **Bootcamp de Data Analytics de TripleTen**.
+## 🚀 Perfil profesional
+Soy **Data Analyst en etapa inicial (entry-level)** con formación práctica en el **Bootcamp de Data Analytics de TripleTen** y experiencia previa en **telecomunicaciones, ventas y operaciones**.
 
-Tengo experiencia trabajando con **datasets reales**, limpiando datos, realizando análisis exploratorio, construyendo visualizaciones y desarrollando aplicaciones web simples para comunicar resultados de manera clara y accionable.
-
-Me interesa seguir creciendo en roles donde pueda **transformar datos en insights de negocio** y apoyar la toma de decisiones basada en datos.
+Combino **pensamiento analítico, contexto de negocio y habilidades técnicas** para transformar datos en insights claros que apoyan la toma de decisiones.  
+Tengo experiencia trabajando con **datasets reales**, análisis exploratorio, pruebas estadísticas, visualizaciones y productos de datos listos para consumo de negocio.
 
 ---
 
 ## 🛠️ Stack técnico
 - **Lenguajes:** Python, SQL  
-- **Librerías:** pandas, numpy, matplotlib, seaborn, plotly  
-- **Visualización:** Tableau, Plotly, Streamlit  
+- **Análisis:** pandas, numpy  
+- **Visualización:** matplotlib, seaborn, plotly, Tableau  
 - **Estadística:** pruebas de hipótesis, A/B testing  
+- **Aplicaciones:** Streamlit  
 - **Herramientas:** Git, GitHub, Jupyter Notebook  
-- **Deploy:** Render  
+- **Publicación de aplicaciones:** Render  
 
 ---
 
 ## 📂 Proyectos destacados
-Aquí algunos proyectos representativos de mi portafolio:
 
 ### 🚗 Aplicación Web – Análisis de Vehículos Usados
-- App web interactiva desarrollada con **Streamlit**
-- Visualización dinámica de precios y características de vehículos
-- Incluye filtros, histogramas, scatter plots y boxplots
+Aplicación web interactiva orientada a exploración de datos y comunicación visual.
+
+- App desarrollada con **Streamlit**
+- Análisis dinámico de precios y características de vehículos
+- Filtros interactivos, histogramas, scatter plots y boxplots
+- Enfoque en usabilidad y storytelling con datos
 
 🔗 **Demo:** https://proyecto-oferta-carros-usados.onrender.com  
-📁 **Repo:** https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten
+📁 **Repositorio:**  
+https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20Sprint%207%20-%20Streamlit%20Carros
 
 ---
 
-### 📞 Análisis de Tarifas – Telecomunicaciones (Megaline)
-- Análisis del comportamiento de clientes
-- Cálculo de ingresos por usuario
-- Pruebas estadísticas para comparación de planes
+### 📡 Proyecto Final – Telecomunicaciones: CallMeMaybe
+Análisis integral para identificar **operadores ineficaces** en un servicio de telefonía virtual.
 
-📁 **Repo:** https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten
+- Limpieza y **análisis exploratorio de datos (EDA)**
+- Definición de métricas operativas de eficiencia
+- Identificación de patrones de bajo desempeño
+- **Pruebas estadísticas (t de Welch)**
+- Dashboard interactivo en **Tableau Public**
+- Recomendaciones estratégicas basadas en evidencia
+
+📁 **Repositorio:**  
+https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20FInal%20Sprint%2014/14.4%20Proyecto%20CallMeMaybe
 
 ---
 
 ## 📊 Qué puedes encontrar en mi GitHub
-- Proyectos completos con **README detallado**
+- Proyectos completos con **README claros y estructurados**
 - Análisis exploratorio de datos
-- Pruebas estadísticas
-- Dashboards y aplicaciones web
-- Buenas prácticas de estructura y documentación
+- Estadística aplicada y pruebas de hipótesis
+- Dashboards y aplicaciones de datos
+- Buenas prácticas de documentación y organización
 
 ---
 
-## 🔗 Conecta conmigo
-- 💼 **LinkedIn:** *www.linkedin.com/in/oscar-manuel-aranda-roche*
-- 📧 **Email:** *oscar.aranda.mx@gmail.com*  
+## 🔗 Contacto
+- 💼 **LinkedIn:** https://www.linkedin.com/in/oscar-manuel-aranda-roche  
+- 📧 **Email:** oscar.aranda.mx@gmail.com  
 
 ---
 
 ⭐ Gracias por visitar mi perfil.  
-Estoy abierto a oportunidades como **Data Analyst Jr. / Junior Data Analyst**.
+Estoy abierto a oportunidades como **Data Analyst Jr. / Junior Data Analyst / Business Analyst**.
