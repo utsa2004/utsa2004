@@ -9,7 +9,7 @@
 Soy **Data Analyst en etapa inicial (entry-level)** con formación práctica en el **Bootcamp de Data Analytics de TripleTen** y experiencia previa en **telecomunicaciones, ventas y operaciones**.
 
 Combino **pensamiento analítico, contexto de negocio y habilidades técnicas** para transformar datos en insights claros que apoyan la toma de decisiones.  
-Tengo experiencia trabajando con **datasets reales**, análisis exploratorio, pruebas estadísticas, visualizaciones y productos de datos listos para consumo de negocio.
+He trabajado con **datasets reales**, análisis exploratorio, pruebas estadísticas, visualizaciones y productos de datos listos para consumo de negocio.
 
 ---
 
@@ -34,24 +34,24 @@ Aplicación web interactiva orientada a exploración de datos y comunicación vi
 - Filtros interactivos, histogramas, scatter plots y boxplots
 - Enfoque en usabilidad y storytelling con datos
 
-🔗 **Demo:** https://proyecto-oferta-carros-usados.onrender.com  
+🔗 **Demo:**  
+https://proyecto-oferta-carros-usados.onrender.com  
+
 📁 **Repositorio:**  
 https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20Sprint%207%20-%20Streamlit%20Carros
 
 ---
 
-### 📡 Proyecto Final – Telecomunicaciones: CallMeMaybe
-Análisis integral para identificar **operadores ineficaces** en un servicio de telefonía virtual.
+### 🚕 Análisis de Movilidad Urbana – Zuber (Chicago)
+Proyecto de análisis de datos enfocado en patrones de movilidad urbana y toma de decisiones de negocio.
 
-- Limpieza y **análisis exploratorio de datos (EDA)**
-- Definición de métricas operativas de eficiencia
-- Identificación de patrones de bajo desempeño
-- **Pruebas estadísticas (t de Welch)**
-- Dashboard interactivo en **Tableau Public**
-- Recomendaciones estratégicas basadas en evidencia
+- Análisis de viajes en taxi por zonas y horarios
+- Integración de datos climáticos
+- Estadística descriptiva y visualizaciones
+- Insights orientados a demanda y eficiencia operativa
 
 📁 **Repositorio:**  
-https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20FInal%20Sprint%2014/14.4%20Proyecto%20CallMeMaybe
+https://github.com/utsa2004/proyectos-bootcamp-data-analyst-tripleten/tree/main/Proyecto%20Sprint%2008%20-%20Zuber
 
 ---
 
